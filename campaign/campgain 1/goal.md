@@ -35,5 +35,5 @@
 
 - Resturent management system
 
-        - testing version release at 20th november  2021
+        - testing version release at 20th november 2021
         - release at 30th november - stable version.

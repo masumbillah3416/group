@@ -20,7 +20,7 @@
    - refferal 
 - sms sending 
 - online login system . first  he should write his store name then asked user name and pass 
-
+- hot key
 
        secutity 
        ----------
